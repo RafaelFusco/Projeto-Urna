@@ -1,4 +1,4 @@
-# Projeto-Urna
+# Urna
 
 Projeto desenvolvido junto com o curso B7Web
 
